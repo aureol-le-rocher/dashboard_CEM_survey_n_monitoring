@@ -36,7 +36,7 @@ Cette  feuille présente les participants enrôlés par tranche d' âge, les dos
 
 Cette  feuille  présente les signes  et  symptomes notifiés  par les participants au moment  du suivi par les Enquêteurs.
 
-![feuille]4(images/Capture4.PNG)
+![feuille4](images/Capture4.PNG)
 
 
 
